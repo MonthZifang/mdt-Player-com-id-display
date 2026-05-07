@@ -1,0 +1,7 @@
+{
+  "name": "mdt-jump-plugin-native",
+  "author": "monthzifang",
+  "main": "com.mdt.jumpnative.JumpNativePlugin",
+  "description": "Display com ids for players in the list and on join.",
+  "version": "v1"
+}

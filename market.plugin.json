@@ -1,0 +1,24 @@
+{
+  "metadataVersion": 1,
+  "name": "mdt-jump-plugin-native",
+  "displayName": "MDT Jump Plugin Native Display",
+  "displayNameZh": "MDT 跳转插件原版显示模块",
+  "author": "monthzifang",
+  "description": "Display the generated com id beside player names and join messages.",
+  "descriptionZh": "在玩家列表和进服提示中显示 jump 插件生成的四位 com id。",
+  "version": "v1",
+  "requiredMarketVersion": "v1",
+  "channel": "native",
+  "targets": [
+    "original"
+  ],
+  "downloadUrls": [
+    "https://raw.githubusercontent.com/MonthZifang/mdt-jump-plugin-native/main/dist/mdt-jump-plugin-native.jar",
+    "https://raw.githubusercontent.com/MonthZifang/mdt-jump-plugin-native/main/plugin.json"
+  ],
+  "dependencies": [
+    "mdt-jump-plugin"
+  ],
+  "repositoryUrl": "https://github.com/MonthZifang/mdt-jump-plugin-native.git",
+  "entry": "com.mdt.jumpnative.JumpNativePlugin"
+}
