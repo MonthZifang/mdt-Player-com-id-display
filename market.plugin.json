@@ -13,12 +13,12 @@
     "original"
   ],
   "downloadUrls": [
-    "https://raw.githubusercontent.com/MonthZifang/mdt-jump-plugin-native/main/dist/mdt-jump-plugin-native.jar",
-    "https://raw.githubusercontent.com/MonthZifang/mdt-jump-plugin-native/main/plugin.json"
+    "https://raw.githubusercontent.com/MonthZifang/mdt-Player-com-id-display/main/dist/mdt-jump-plugin-native.jar",
+    "https://raw.githubusercontent.com/MonthZifang/mdt-Player-com-id-display/main/plugin.json"
   ],
   "dependencies": [
     "mdt-jump-plugin"
   ],
-  "repositoryUrl": "https://github.com/MonthZifang/mdt-jump-plugin-native.git",
+  "repositoryUrl": "https://github.com/MonthZifang/mdt-Player-com-id-display.git",
   "entry": "com.mdt.jumpnative.JumpNativePlugin"
 }
